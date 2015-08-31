@@ -7,6 +7,16 @@ Integrate Chosen with Ractive, including two-way binding.
 
 [See the demo here.](http://kalcifer.github.io/ractive-decorators-chosen/)
 
+Installation
+-----
+
+`npm install ractive-decorators-chosen`
+
+or
+
+`bower install ractive-decorators-chosen`
+
+
 Usage
 -----
 
